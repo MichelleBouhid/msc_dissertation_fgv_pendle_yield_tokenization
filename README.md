@@ -11,3 +11,7 @@ The dissertation examines whether yield tokenization represents a step in the ma
 The PDF in this repository is the current draft.
 
 Contact: michelle.bouhid@gmail.com
+
+© 2026 Michelle Caldas Bouhid. All rights reserved. This draft may be read and cited, but not reproduced or redistributed without permission.
+
+Suggested citation: Bouhid, M. C. (2026). Yield Tokenization and the Emergence of Crypto-Native Fixed Income Markets: Evidence from Pendle. MSc dissertation, FGV-EPGE. Working draft.
